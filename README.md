@@ -1,16 +1,11 @@
 # push_notification
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#[1]Firebase Integration in Flutter project. 
+#[2]Parsing message in the app using on Message Stream while the app is foreground.
+#[3]Handling click action on Push notifications like navigation while the app is in the background (app opened).
+#[4]Parsing message in the app using on BackgroundHandler Stream while the app is background.
+#[5]Handling click action on Push notifications like navigation while the app is in the background (app closed).
+#[6]Creating Notification Channel to show heads up notification using flutter_local_notification.
+#[7]Displaying heads up notification while the app is in the foreground.
+#[8]Displaying heads up notification while the app is in the background.
+#[9]Handling on tap notification while the app is in the foreground.
